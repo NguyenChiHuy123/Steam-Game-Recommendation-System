@@ -2,5 +2,5 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 /workspaces/Steam-Game-Recommendation-System/key/
 
-# Bỏ file dữ liệu lớn
-notebooks/similarity.pkl
+# # Bỏ file dữ liệu lớn
+# notebooks/similarity.pkl
