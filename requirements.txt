@@ -1,0 +1,6 @@
+pandas
+# pickle
+streamlit
+numpy
+nltk
+sklearn
